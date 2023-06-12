@@ -1,6 +1,6 @@
 package challenges
 
-import auxClasses.ListNode
+import ListNode
 import kotlin.math.max
 
 class AddTwoNumbers {
